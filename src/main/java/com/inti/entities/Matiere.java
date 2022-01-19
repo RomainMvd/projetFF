@@ -1,4 +1,5 @@
 package com.inti.entities;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -71,5 +72,9 @@ public class Matiere {
 	
 	
 	
+
+
+public class Matiere {
+
 
 }
