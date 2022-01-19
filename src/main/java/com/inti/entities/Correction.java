@@ -1,5 +1,7 @@
 package com.inti.entities;
 
+
+public class Correction {
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -79,5 +81,6 @@ public class Correction {
 	public void setExamen(Examen examen) {
 		this.examen = examen;
 	}
+
 
 }

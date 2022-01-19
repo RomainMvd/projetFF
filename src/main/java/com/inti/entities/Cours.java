@@ -1,5 +1,8 @@
 package com.inti.entities;
 
+
+public class Cours {
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -86,7 +89,6 @@ public class Cours implements Serializable{
 		return "Cours [idCours=" + idCours + ", chapitre=" + chapitre + ", nbrHeure=" + nbrHeure + ", fichierCours="
 				+ Arrays.toString(fichierCours) + "]";
 	}
-	
 	
 	
 
