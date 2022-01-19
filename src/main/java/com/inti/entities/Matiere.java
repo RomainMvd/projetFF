@@ -68,13 +68,4 @@ public class Matiere {
 		return "Matiere [idMatiere=" + idMatiere + ", nomMatiere=" + nomMatiere + "]";
 	}
 	
-	
-	
-	
-	
-
-
-public class Matiere {
-
-
 }

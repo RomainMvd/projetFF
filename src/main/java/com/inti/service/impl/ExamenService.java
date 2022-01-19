@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.inti.entities.Examen;
+import com.inti.repository.ExamenRepository;
 import com.inti.entities.Examen;
-import com.inti.repositories.ExamenRepository;
 import com.inti.service.interfaces.IExamenService;
 
 public class ExamenService implements IExamenService {

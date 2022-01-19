@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.inti.entities.Matiere;
-import com.inti.repositories.MatiereRepository;
+import com.inti.repository.MatiereRepository;
 import com.inti.service.interfaces.IMatiereService;
 
 public class MatiereService implements IMatiereService {

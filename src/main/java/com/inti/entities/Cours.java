@@ -1,8 +1,5 @@
 package com.inti.entities;
 
-
-public class Cours {
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
